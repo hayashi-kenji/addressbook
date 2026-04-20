@@ -1,0 +1,17 @@
+# --- Java / Eclipse 固有のファイル ---
+# コンパイル済みのバイナリ (classファイル)
+/build/
+/bin/
+
+# --- Eclipse の設定ファイル ---
+.settings/
+
+# --- ライブラリ ---
+# ライブラリ本体 (jarファイル)
+*.jar
+
+# --- その他 ---
+# macOS 固有の一時ファイル
+.DS_Store
+# Windows 固有の一時ファイル
+Thumbs.db
